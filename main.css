@@ -16,3 +16,9 @@
  text-align: center;
  font-size: 14px;
  }
+
+ .shapka {
+ 	background-color: #e7f0f7;
+ 	display: table-cell;
+ 	    border-collapse: collapse;
+ }
