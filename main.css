@@ -15,10 +15,12 @@
  .row-re {
  text-align: center;
  font-size: 14px;
+ background-color: #e7f0f7;
+ }
+ #shapka {
+ 	text-align: left;
+ 	border: 1px solid #fff;
+ 	    display: table-cell;
+ 	    background-color: #e7f0f7;
  }
 
- .shapka {
- 	background-color: #e7f0f7;
- 	display: table-cell;
- 	    border-collapse: collapse;
- }
